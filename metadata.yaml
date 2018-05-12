@@ -1,0 +1,45 @@
+_repo: The-Rand-McNally-Bible-AtlasA-Manual-of-Biblical-Geography-and-History_41140
+_version: 0.1.0
+alternative_title: 'The Rand-McNally Bible Atlas: Historical and Descriptive; Illustrated'
+contributor:
+  author_of_introduction:
+    agent_name: Vincent, John Heyl
+    aliases:
+    - Vincent, J. H. (John Heyl)
+    - Vincent, John Heyl, Bp.
+    birthdate: 1832
+    deathdate: 1920
+    gutenberg_agent_id: '40496'
+    url: http://www.gutenberg.org/2009/agents/40496
+covers:
+- cover_type: archival
+  image_path: 41140-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hurlbut, Jesse Lyman
+    aliases:
+    - Hurlbott, Jesse Lyman
+    - Hurlbut, J. L. (Jesse Lyman)
+    birthdate: 1843
+    deathdate: 1930
+    gutenberg_agent_id: '33676'
+    url: http://www.gutenberg.org/2009/agents/33676
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
+description: ''
+gutenberg_issued: '2012-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41140'
+  lccn: '10010573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Geography'
+- !lcc 'G'
+- !lcsh 'Bible -- Geography -- Maps'
+- !lcsh 'Bible -- History of Biblical events'
+- !lcc 'BS'
+title: 'Bible Atlas: A Manual of Biblical Geography and History'
+url: http://www.gutenberg.org/ebooks/41140
