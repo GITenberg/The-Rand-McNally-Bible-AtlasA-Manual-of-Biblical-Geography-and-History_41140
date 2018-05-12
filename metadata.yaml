@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33676
     wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41140#The-Rand-McNally-Bible-AtlasA-Manual-of-Biblical-Geography-and-History
 gutenberg_issued: '2012-10-22'
 gutenberg_type: Text
 identifiers:
